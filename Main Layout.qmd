@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Main Layout"
 ---
 
 ::: {.grid}

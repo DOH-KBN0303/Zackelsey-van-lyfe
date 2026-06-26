@@ -2,22 +2,22 @@
 title: "Zackelsey Van Lyfe"
 ---
 
-Use this page for projects, publications, documentation, reports, training materials, or other work you want to share.
+We are going to collab on making our dream of traveling this stupid country together, but at least in a bad ass van. 
 
 ::: {.project-card}
-## Project One
+## Which van are we going to pick?! 
 
-**Status:** In progress
+**Status:** R&D
 
 Describe the project in two or three sentences. Focus on the problem, your contribution, and the result or intended outcome.
 
-[View the repository](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
+[View the repository](https://github.com/DOH-KBN0303/Zackelsey-van-lyfe.git)
 :::
 
 ::: {.project-card}
-## Project Two
+## What about main cabin design?!
 
-**Status:** Complete
+**Status:** Def in progress
 
 Describe another project or resource. You can add images, links, tables, citations, or executable code to a Quarto page.
 
