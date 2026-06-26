@@ -3,7 +3,7 @@ project:
   output-dir: _site
 
 website:
-  title: "Your Name or Project"
+  title: "Zackelsey Van Lyfe"
   navbar:
     left:
       - href: index.qmd
@@ -14,13 +14,13 @@ website:
         text: About
   page-footer:
     left: "Built with Quarto"
-    right: "Update this footer in _quarto.yml"
+    right: "LFG"
   repo-url: https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
   repo-actions: [edit, issue]
 
 format:
   html:
-    theme: cosmo
+    theme: journal
     css: styles.css
     toc: true
     link-external-newwindow: true

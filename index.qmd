@@ -1,17 +1,17 @@
 ---
-title: "Welcome"
+title: "Heyoooooooooooo"
 ---
 
 ::: {.hero}
-## Your Name or Project
+## Zackelsey Van Lyfe
 
-Write a short introduction that tells visitors who you are, what this site is about, or what they can find here.
+We gonna use intentional design to make the van of our dreamsssss.
 
-[Learn more](about.qmd){.btn .btn-primary}
-[View projects](projects.qmd){.btn .btn-outline-primary}
+[Main Layout](Main Layout.qmd){.btn .btn-primary}
+[Room by Room](projects.qmd){.btn .btn-outline-primary}
 :::
 
-## What I do
+## Main 
 
 Replace this section with two or three sentences about your work, interests, research, community, or project.
 
@@ -22,6 +22,6 @@ Use this area to highlight something you want visitors to notice first.
 - [Project or resource title](projects.qmd)
 - [Another useful link](https://quarto.org/docs/websites/)
 
-## Contact or next steps
+## Contact:
 
-Add a preferred way for visitors to contact you, find your work, or learn more. Avoid publishing personal information you do not want to share publicly.
+If you got beef, text me. 
